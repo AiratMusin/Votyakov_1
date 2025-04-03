@@ -1,2 +1,2 @@
 cm = int(input())
-print(cm // 1000)
+print(cm // 100000)
